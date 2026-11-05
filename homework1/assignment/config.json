@@ -1,0 +1,6 @@
+{
+  "input_filename": "data/document.cloze.txt",
+  "candidates_filename": "data/candidate.words.txt",
+  "corpus": "D:/Study related files in D/NLP/homework 1/en.wikipedia2018.10M.txt/en.wikipedia2018.10M.txt",
+  "left_only": false
+}
